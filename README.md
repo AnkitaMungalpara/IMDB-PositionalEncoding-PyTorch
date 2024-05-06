@@ -1,9 +1,6 @@
 # Sentiment Analysis on IMDB Dataset with PyTorch and Positional Encoding
 
-
-## Dataset Description:
-There are 50,000 movie reviews in the IMDB dataset, with 25,000 used for testing and the remaining 25,000 for training. Positive or negative sentiment is assigned to each review. Comparing this dataset to previous benchmark datasets, a much larger amount of data is available for binary sentiment classification.
-
+There are 50,000 movie reviews in the IMDB dataset, with 25,000 used for testing and the remaining 25,000 for training. Positive or negative sentiment is assigned to each review. 
 
 ## Implementation Overview:
 Using PyTorch, this project applies sentiment analysis to the IMDB dataset, utilizing positional encoding to efficiently capture sequential information.
@@ -24,9 +21,5 @@ Using PyTorch, this project applies sentiment analysis to the IMDB dataset, util
 6. **Evaluation**: Define the evaluation function to evaluate the trained model on the testing dataset.
 
 
-## Results:
-Upon evaluation, evaluate the model performance on sentiment classification task.
-
-
 ## Author:
-- [AnkitaMungalpara]
+`AnkitaMungalpara
