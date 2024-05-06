@@ -22,4 +22,4 @@ Using PyTorch, this project applies sentiment analysis to the IMDB dataset, util
 
 
 ## Author:
-`AnkitaMungalpara
+` AnkitaMungalpara
