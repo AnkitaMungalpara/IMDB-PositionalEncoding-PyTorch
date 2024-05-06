@@ -19,7 +19,3 @@ Using PyTorch, this project applies sentiment analysis to the IMDB dataset, util
 5. **Training**: Implement the training function to train the model using the training dataset.
 
 6. **Evaluation**: Define the evaluation function to evaluate the trained model on the testing dataset.
-
-
-## Author:
-` AnkitaMungalpara
